@@ -1,0 +1,98 @@
+.image{
+
+
+    border: 1px solid rgb(5, 5, 5);
+    
+        border-radius: 10px;
+        box-shadow: 0px 1px 2px rgb(15, 35, 214);
+        float: right;
+    
+    }
+
+
+
+    .fa{
+        font-family: 'Gemunu Libre', sans-serif;
+        font-style: italic;
+padding: 2px;
+
+font-size: x-large;
+
+
+    }
+
+    .fb{
+
+
+        font-family: 'Roboto Mono', monospace;
+padding: 2px;
+
+font-size: xx-large;
+
+
+
+    }
+.vedio1{
+
+    border-radius: 20px;
+    box-shadow: 0px 1px 2px rgb(15, 35, 214);
+
+
+}
+    .vedio{
+    
+    
+        
+    
+        border-radius: 20px;
+        box-shadow: 0px 1px 2px rgb(15, 35, 214);
+    margin-left: 25%;
+    margin-right: 15%;
+    
+    }
+    
+    .vedioCaption{
+    
+    text-align: center;
+    font-style: oblique;
+    font-size: 80%;
+    font-family: 'Cairo', sans-serif;
+    }
+
+
+    .imageL{
+        border: 1px solid rgb(5, 5, 5);
+
+        border-radius: 10px;
+        box-shadow: 0px 1px 2px rgb(2, 85, 60);
+        float: left;
+height: 50%;
+
+width:50% ;
+    }
+
+
+    .side{
+
+
+
+
+        display: flex;
+        justify-content:space-around;
+        flex-direction:row;
+    }
+
+
+    .coloum{
+margin: 10%;
+
+        display: flex;
+        justify-content:end;
+        flex-direction:column;
+
+        border: 1px solid rgb(5, 5, 5);
+
+        border-radius: 10px;
+        box-shadow: 0px 1px 2px rgb(2, 85, 60);
+
+    }
