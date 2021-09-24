@@ -2,9 +2,9 @@
 // // difine the link
 
 
-// //const urlbf = "https://whereisthemarblebackend.herokuapp.com/api/comment"
+const urlbf = "https://dinousaurafinal.herokuapp.com/api/comments"
 
-const urlbf = "http://localhost:5500/api/comments"
+//const urlbf = "http://localhost:5500/api/comments"
 
 
 async function getComments() {
